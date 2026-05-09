@@ -2,7 +2,7 @@
 
 Veja abaixo uma captura de tela do jogo em execução:
 
-!['Jogo de Batalha Estrelar em Java'](captura-de-tela.png)
+!['Jogo de Batalha Estrelar em Java'](batalha-estrelar.png)
 
 Para rodar o jogo, basta baixar o arquivo BE-1.2.jar e rodar executando o seguinte comando:
 
